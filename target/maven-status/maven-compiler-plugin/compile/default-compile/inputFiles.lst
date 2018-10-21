@@ -1,0 +1,9 @@
+/home/francisco/Workspace/Java/keeperchallenge/src/main/java/tws/keeper/model/Keeper.java
+/home/francisco/Workspace/Java/keeperchallenge/src/main/java/tws/keeper/springboot/MazeApplication.java
+/home/francisco/Workspace/Java/keeperchallenge/src/main/java/tws/keeper/model/Observable.java
+/home/francisco/Workspace/Java/keeperchallenge/src/main/java/tws/keeper/model/Position.java
+/home/francisco/Workspace/Java/keeperchallenge/src/main/java/tws/keeper/model/Action.java
+/home/francisco/Workspace/Java/keeperchallenge/src/main/java/tws/keeper/springboot/MazeRestApi.java
+/home/francisco/Workspace/Java/keeperchallenge/src/main/java/tws/keeper/solution/KeeperAI.java
+/home/francisco/Workspace/Java/keeperchallenge/src/main/java/tws/keeper/model/Maze.java
+/home/francisco/Workspace/Java/keeperchallenge/src/main/java/tws/keeper/model/Cell.java
